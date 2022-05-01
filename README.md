@@ -1,5 +1,4 @@
-Hello, I'm Lynx,
+Hello, I'm Hallow,
 
 I like Python.
 
-I am a Python programmer according to "A Byte of Python".
